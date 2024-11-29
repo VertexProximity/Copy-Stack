@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Clipboard History",
+    "name": "Copy-Stack",
     "version": "1.0",
-    "description": "Stores and displays clipboard history.",
+    "description": "You're own clipboard that stores and displays clipboard history.",
     "permissions": ["clipboardRead", "storage"],
     "background": {
       "scripts": ["background.js"],
